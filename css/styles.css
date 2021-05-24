@@ -1,0 +1,26 @@
+.row-header{
+    margin: 0px auto;
+    padding: 0px auto;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px;
+    border-bottom: 2px;
+}
+.footer{
+    background-color: rgb(194, 60, 111);
+    margin: 0px auto;
+    padding: 20px 0px;
+}
+.jumbotron{
+    background-color: aquamarine;
+    font-family: 'Times New Roman', Times, serif;
+    color: beige;
+}
+.adress{
+    font-size: 80%;
+    color: beige;
+}
+.loki{
+    background-color: cadetblue;
+}
