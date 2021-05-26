@@ -8,12 +8,12 @@
     border-bottom: 2px;
 }
 .footer{
-    background-color: rgb(194, 60, 111);
+    background-color: rgb(214, 182, 236);
     margin: 0px auto;
     padding: 20px 0px;
 }
 .jumbotron{
-    background-color: aquamarine;
+    background-color: rgb(128, 30, 194);
     font-family: 'Times New Roman', Times, serif;
     color: beige;
 }
